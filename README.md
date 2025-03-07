@@ -91,15 +91,11 @@ npm run dev
 
 ## Challenges & Learnings
 
-- What did you and your team struggle with?
+What did you and your team struggle with?
+- Add build tests earlier
+- Resolve merge conflicts in IDE and don’t accidentally overwrite another developers work
+- Take more regular breaks
 - What skills did you improve?
-
-Example:
-
-> Key Takeaways:
-> 
-> - Implementing **real-time chat** using Firebase was a challenge due to security concerns, but we learned about Firestore rules.
-> - Managing **user roles (landlords vs. tenants)** in the database helped us understand relational data modelling.
 
 ---
 
